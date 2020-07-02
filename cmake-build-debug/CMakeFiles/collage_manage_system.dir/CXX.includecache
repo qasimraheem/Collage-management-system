@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Semester.h
+Subject.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Subject.h
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Student.cpp
+Student.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Student.h
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Student.h
+Semester.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Semester.h
+string
+-
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/StudentList.h
+Student.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Student.h
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Subject.h
+Teacher.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Teacher.h
+string
+-
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/SubjectList.h
+Subject.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Subject.h
+string.h
+-
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Teacher.h
+iostream
+-
+string
+-
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/TeacherList.h
+iostream
+-
+Teacher.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Teacher.h
+
+/Users/qasimkhokhar/Desktop/practice/collage manage system/main.cpp
+iostream
+-
+Semester.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Semester.h
+Student.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Student.h
+StudentList.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/StudentList.h
+Subject.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Subject.h
+StudentList.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/StudentList.h
+Teacher.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/Teacher.h
+TeacherList.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/TeacherList.h
+SubjectList.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/SubjectList.h
+string.h
+/Users/qasimkhokhar/Desktop/practice/collage manage system/string.h
+

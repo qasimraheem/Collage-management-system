@@ -1,0 +1,3 @@
+/Users/qasimkhokhar/Desktop/practice/collage manage system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qasimkhokhar/Desktop/practice/collage manage system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qasimkhokhar/Desktop/practice/collage manage system/cmake-build-debug/CMakeFiles/collage_manage_system.dir
